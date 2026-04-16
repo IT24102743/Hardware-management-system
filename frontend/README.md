@@ -1,1 +1,1 @@
-Pur frontend files here
+Put frontend files here

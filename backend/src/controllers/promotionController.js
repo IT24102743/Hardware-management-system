@@ -32,7 +32,7 @@ const createPromotion = async (req, res) => {
       });
     }
 
-    // promotion name validation
+    //promotion name validation
     if (!/^[A-Za-z\s]+$/.test(promotionName)) {
       return res.status(400).json({
         message: "Promotion name can contain only letters and spaces",

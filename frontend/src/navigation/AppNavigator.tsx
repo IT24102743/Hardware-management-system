@@ -72,6 +72,7 @@ export type RootStackParamList = {
   Main: undefined;
 };
 
+
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
 const Tab = createBottomTabNavigator();

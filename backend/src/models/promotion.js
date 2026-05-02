@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 const Counter = require("./counter");
 
+// Promotion Schema
 const promotionSchema = new mongoose.Schema(
   {
     promotionId: {

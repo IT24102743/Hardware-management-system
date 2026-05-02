@@ -32,4 +32,8 @@ export default function AppHeader({
       <View style={styles.side} />
     </View>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/dev

@@ -9,7 +9,7 @@ const {
   deletePromotion
 } = require("../controllers/promotionController");
 
-const { protect } = require("../middleware/authMiddleware");
+const{ protect } = require("../middleware/authMiddleware");
 
 // Protect ALL routes
 router.use(protect);

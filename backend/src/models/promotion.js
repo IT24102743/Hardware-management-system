@@ -8,7 +8,7 @@ const promotionSchema = new mongoose.Schema(
       type: Number,
       unique: true
     },
-
+    
     promotionName: {
       type: String,
       required: true

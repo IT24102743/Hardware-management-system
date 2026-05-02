@@ -30,6 +30,7 @@ export default function PromotionAddScreen({
     status: "active",
   });
 
+  
   /**
    * LOAD ITEMS
    */

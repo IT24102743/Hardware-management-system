@@ -20,6 +20,7 @@ export default function PromotionDetailsScreen({
     return new Date(date).toLocaleDateString();
   };
 
+  
   return (
     <SafeAreaView style={styles.safeArea}>
       <View style={styles.container}>

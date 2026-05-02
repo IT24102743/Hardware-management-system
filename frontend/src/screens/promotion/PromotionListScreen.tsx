@@ -14,6 +14,7 @@ import api from "../../api/api";
 import AppHeader from "../../components/AppHeader";
 import styles from "../../styles/promotion/PromotionListScreenStyles";
 
+
 export default function PromotionListScreen({
   navigation,
 }: any) {

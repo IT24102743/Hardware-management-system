@@ -13,6 +13,7 @@ import api from "../../api/api";
 import AppHeader from "../../components/AppHeader";
 import styles from "../../styles/promotion/PromotionEditScreenStyles";
 
+
 export default function PromotionEditScreen({
   route,
   navigation,

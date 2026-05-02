@@ -10,6 +10,7 @@ export default StyleSheet.create({
     flex: 1,
   },
 
+  
   scrollContent: {
     paddingHorizontal: 16,
     paddingBottom: 40,

@@ -23,4 +23,8 @@ api.interceptors.request.use(
   }
 );
 
+<<<<<<< HEAD
 export default api;
+=======
+export default api;
+>>>>>>> origin/dev

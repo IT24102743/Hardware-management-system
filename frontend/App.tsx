@@ -8,4 +8,8 @@ export default function App() {
       <AppNavigator />
     </AuthProvider>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/dev

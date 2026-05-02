@@ -6,7 +6,10 @@
  */
 package com.hardwaremobile;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/dev
 import android.content.Context;
 import com.facebook.flipper.android.AndroidFlipperClient;
 import com.facebook.flipper.android.utils.FlipperUtils;

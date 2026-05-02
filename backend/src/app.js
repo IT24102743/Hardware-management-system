@@ -12,6 +12,15 @@ const saleRoutes = require("./routes/saleRoutes");
 const cartRoutes = require("./routes/cartRoutes");
 const aiRoutes = require("./routes/aiRoutes");
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+>>>>>>> origin/dev
 const app = express();
 
 // Middleware
